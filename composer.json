@@ -1,18 +1,21 @@
 {
-    "name": "optimal-program/sample-no-work",
-    "description": "PHP Object Graph Mapper for Neo4j",
-    "license": "Apache-2.0",
-    "keywords": [
-        "test",
-    ],
-    "homepage": "",
-    "authors": [{
-        "name": "Jan Jindra",
-        "email": "jindra@optimal-program.cz"
-    }, {
-        "name": "Optimal Program",
-    }],
-    "require": {
-        "php": "^5.6 || ^7.0",
+  "name": "optimal-program/sample-no-work",
+  "description": "PHP no work",
+  "license": "Apache-2.0",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "",
+  "authors": [
+    {
+      "name": "Jan Jindra",
+      "email": "jindra@optimal-program.cz"
+    },
+    {
+      "name": "Optimal Program"
     }
+  ],
+  "require": {
+    "php": "^5.6 || ^7.0"
+  }
 }
