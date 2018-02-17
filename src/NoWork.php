@@ -1,10 +1,10 @@
 <?php
 
-namespace NoWork;
+namespace OptimalProgram\NoWork;
 
 class NoWork
 {
-    public function startup()
+    public function ahoj()
     {
         return 1;
     }
